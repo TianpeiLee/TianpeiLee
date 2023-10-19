@@ -4,4 +4,4 @@ Thank you!
 
 |              Alipay              |               WeChat Pay               |
 | :------------------------------: | :------------------------------------: |
-| ![alipay](image/pay/Alipay.png)  | ![wechatpay](image/pay/WeChatPay.png)  |
+| ![alipay](image/pay/Alipay.jpg)  | ![wechatpay](image/pay/WeChatPay.jpg)  |
