@@ -1,5 +1,11 @@
+<div align="center" >
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+ </div>
+
+
 <h1 align="center">Hi 👋, I'm TianpeiLee</h1>
 <h3 align="center">A hardware and embedded engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tianpeilee&label=Profile%20views&color=0e75b6&style=flat" alt="tianpeilee" /> </p>
 
