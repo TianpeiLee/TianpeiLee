@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tianpeilee&label=Profile%20views&color=0e75b6&style=flat" alt="tianpeilee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianpeilee" alt="tianpeilee" /></a> </p>
+
 
 - 🔭 I’m currently working on [CH32duino](https://github.com/openwch/arduino_core_ch32.git)
 
