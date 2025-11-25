@@ -11,7 +11,8 @@
 
 
 
-- 🔭 I’m currently working on [CH32duino](https://github.com/openwch/arduino_core_ch32.git)
+- 🔭 I am currently porting existing open-source flight controllers to the RISC-V MCU platform, including [betaflight](https://github.com/TianpeiLee/betaflight.git), [INAV](https://github.com/TianpeiLee/inav.git),[Ardupilot](https://github.com/TianpeiLee/ardupilot.git), etc.Using open-source flight control code on an open-source architecture. <br>
+[CH32duino](https://github.com/openwch/arduino_core_ch32.git) will be maintained by someone else.
 
 - 📫 How to reach me **temperslee001@gmail.com**
 
